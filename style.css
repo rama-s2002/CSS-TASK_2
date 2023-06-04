@@ -1,0 +1,12 @@
+ul {
+    padding-left: 2rem;
+    list-style-type: none;
+  }
+  
+  ul li {
+    padding-left: 2rem;
+    background-image: url("https://mdn.github.io/learning-area/css/styling-text/styling-lists/star.svg"); 
+    background-position: 0 0;
+    background-size: 1rem 1rem;
+    background-repeat: no-repeat;
+  }
